@@ -4,7 +4,7 @@ void gamePlay() {
   int ref1 = 0;
   int ref2 = 0;
 
-  background(0);
+  background(1);
 
   x = x + dx;
   y = y + dy;
